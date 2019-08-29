@@ -1,10 +1,74 @@
 
 
 
-.container{
+
+
+
+.nav{
+  float: right;
+  text-align: center;
+  
+}
+
+.logo{
+  float: left;
+  background-color: #4aaaa5;
+  padding: 10px;
+  
+  
+  
+}
+
+h2{
+  color: #4aaaa5;
+  position: relative;
+  top:10px;
+  left: 10px;
+}
+
+
+.main{
   width: 960px;
   margin: 0 auto;
-}
-.backGround{
+  position:relative;
   
+}
+
+hr{
+  margin: 10px;
+}
+
+.picture{
+  float:left;
+  width: 200px;
+  height: 200px;
+}
+
+.content{
+  background-color: #ffffff;
+  
+}
+
+.background{
+  background-color: #eeeeee;
+  clear: both;
+  overflow: auto;
+  padding-bottom: 200px;
+  border-top: solid 3px #cccccc;
+  
+}
+
+#content{
+  background-color: #ffffff;
+  
+  
+}
+
+footer{
+  background-color: #666666;
+  padding:20px 35px;
+  text-align: center;
+  position: relative;
+  bottom: 1px;
+  border-top: solid 5px #4aaaa5;
 }
